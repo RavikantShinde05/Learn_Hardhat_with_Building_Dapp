@@ -15,4 +15,4 @@ then to initialize your project hardhat already provide a sample projects or tem
 npx hardhat init
 ```
 
-## Also create an artifacts folder in Source folder "src" and provide the path for it, in Hardhatconfig.js file.
+ Also create an artifacts folder in Source folder "src" and provide the path in Hardhat config.js file.
