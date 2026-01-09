@@ -18,6 +18,8 @@ To initialize your project hardhat already provide a sample projects or template
 ```
 npx hardhat init
 ```
+## Tip: The "npx hardhat" is deprecated and will be removed in the future. Please use "npx hardhat init" instead.
+
 this will create your project templates of hardhat project in myapp directory. Once you create template of project there are three main directories that is 
 - Contract,
 - Test,
